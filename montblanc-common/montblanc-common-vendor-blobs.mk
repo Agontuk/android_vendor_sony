@@ -113,9 +113,6 @@ PRODUCT_COPY_FILES += \
         vendor/sony/montblanc-common/proprietary/lib/libcald_server.so:system/lib/libcald_server.so \
         vendor/sony/montblanc-common/proprietary/lib/libcald_util.so:system/lib/libcald_util.so \
         vendor/sony/montblanc-common/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
-        vendor/sony/montblanc-common/proprietary/lib/libcameraextensionclient.so:system/lib/libcameraextensionclient.so \
-        vendor/sony/montblanc-common/proprietary/lib/libcameraextensionjni.so:system/lib/libcameraextensionjni.so \
-        vendor/sony/montblanc-common/proprietary/lib/libcameraextensionservice.so:system/lib/libcameraextensionservice.so \
         vendor/sony/montblanc-common/proprietary/lib/libcflashdriver.so:system/lib/libcflashdriver.so \
         vendor/sony/montblanc-common/proprietary/lib/libclientgps.so:system/lib/libclientgps.so \
         vendor/sony/montblanc-common/proprietary/lib/libcn.so:system/lib/libcn.so \

@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
         vendor/sony/montblanc-common/proprietary/bin/at_core:system/bin/at_core \
         vendor/sony/montblanc-common/proprietary/bin/blue-up.sh:system/bin/blue-up.sh \
         vendor/sony/montblanc-common/proprietary/bin/cg2900-channel_init.sh:system/bin/cg2900-channel_init.sh \
-        vendor/sony/montblanc-common/proprietary/bin/chargemon:system/bin/chargemon \
         vendor/sony/montblanc-common/proprietary/bin/cn_server:system/bin/cn_server \
         vendor/sony/montblanc-common/proprietary/bin/cops_cmd:system/bin/cops_cmd \
         vendor/sony/montblanc-common/proprietary/bin/copsdaemon:system/bin/copsdaemon \

@@ -85,6 +85,7 @@ PRODUCT_COPY_FILES += \
         vendor/sony/montblanc-common/proprietary/etc/LbsLogConfig.cfg:system/etc/LbsLogConfig.cfg \
         vendor/sony/montblanc-common/proprietary/etc/LbsPgpsConfig.cfg:system/etc/LbsPgpsConfig.cfg \
         vendor/sony/montblanc-common/proprietary/etc/LbsPltConfig.cfg:system/etc/LbsPltConfig.cfg \
+        vendor/sony/montblanc-common/proprietary/etc/plmn.latam.list:system/etc/plmn.latam.list \
         vendor/sony/montblanc-common/proprietary/etc/plmn.operator.list:system/etc/plmn.operator.list \
         vendor/sony/montblanc-common/proprietary/etc/psdata/stepscc_conf:system/etc/psdata/stepscc_conf \
         vendor/sony/montblanc-common/proprietary/etc/psdata/sterc_conf_alt:system/etc/psdata/sterc_conf_alt \
